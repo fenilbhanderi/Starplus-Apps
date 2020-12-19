@@ -2,9 +2,9 @@
    "Ads":[
       {
          "app_id":"ca-app-pub-3940256099942544~3347511713",
-         "banner_id":"ca-app-pub-3940256099942544/6300978111",
-         "interstitial_id":"ca-app-pub-3940256099942544/1033173712",
-         "native_id":"ca-app-pub-3940256099942544/2247696110",
+         "banner_id":"ca-app-pub-2810636758376308/6170122686",
+         "interstitial_id":"ca-app-pub-2810636758376308/9517608235",
+         "native_id":"ca-app-pub-2810636758376308/8204526565",
          "status":"true",
          "splash_ads":"false"
       },
