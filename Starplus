@@ -1,10 +1,10 @@
 {
    "Ads":[
       {
-         "app_id":"ca-app-pub-3940256099942544~3347511713",
-         "banner_id":"ca-app-pub-3940256099942544/6300978112",
-         "interstitial_id":"ca-app-pub-3940256099942544/1033173710",
-         "native_id":"ca-app-pub-3940256099942544/2247696111",
+         "app_id":"ca-app-pub-2735857588049692~8733167265",
+         "banner_id":"ca-app-pub-2735857588049692/4793922252",
+         "interstitial_id":"ca-app-pub-2735857588049692/7228513906",
+         "native_id":"ca-app-pub-2735857588049692/1976187225",
          "status":"true",
          "splash_ads":"false"
       },
